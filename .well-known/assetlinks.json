@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tapzapapp.reversi",
+    "sha256_cert_fingerprints":
+    ["D7:2F:69:15:44:28:E3:B5:17:AF:A1:AA:D0:3E:38:A7:FA:2E:93:61:2B:45:82:CE:78:CB:3B:D8:C9:62:38:E2"]
+  }
+}]
